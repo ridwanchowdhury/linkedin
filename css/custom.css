@@ -1,0 +1,106 @@
+*{
+
+	margin: 0;
+	padding: 0;
+	/*! text-decoration: none; */
+}
+body{max-width: 100%;min-height: 100vh;}
+.headingpart{background-color: #283E4A;/*! height: 100px; */display: inline-block;width: 100%;text-decoration: none;/*! overflow: hidden; */}
+.headingleft{width: 20%;float: left;/*! margin-top: 34px; */margin-left: 160px;margin-top: 15px;margin-bottom: 15px;margin-right: 147px;}
+.headingleft a {}
+.headingright{width: 59%;float: left;text-decoration: none;display: block;/*! float: left; *//*! overflow: hidden; *//*! display: inline; *//*! height: 40px; *//*! padding-top: 6px; */margin-top: 11px;/*! margin-bottom: 15px; */}
+.headingright form {/*! float: left; */display: block;/*! float: right; */}
+.headingright form ul {float: left;width: 26%;margin-right: 5px;/*! margin: -10px; *//*! padding: -24px; */}
+.headingright form ul li {/*! float: left; *//*! padding-left: -1px; *//*! margin: -8px; */}
+.middlepart{ background-image: url(../images/linkedin-911794_1920.jpg); min-height: 100vh;background-repeat: no-repeat;max-width: 100%;background-size: cover;position: relative;}
+.box{background: #fff;/*! height: 350px; */width: 472px;/*! overflow: hidden; */position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);display: block;}
+.uppertext{text-align: center;font-size: 38px;height: 80px;}
+.dash{background-color: #0003;height: 1px;}
+.insert{background: #deeaf54d;/*! margin-left: 20px; *//*! margin-right: 20px; */padding-left: 20px;padding-right: 20px;}
+.lowerpart1{/*! background-color: #464A4C !important; */}
+.findacolleague{}
+.lowerinputs{/*! float: left; *//*! padding-top: 11px; *//*! padding-left: 250px; *//*! float: left; *//*! margin-top: 20px; *//*! padding-top: 10px; *//*! padding-left: 86px; *//*! margin-right: 20px; *//*! border-radius: 3px; *//*! width: 25%; */float: left;margin-top: 21px;/*! margin-left: 20px; */padding-right: 70px;padding-top: 6px;padding-bottom: 6px;margin-right: 8px;text-align: center;border-radius: 6px;}
+.search{float: left;/*! padding-top: 11px; *//*! padding-left: 250px; *//*! float: left; *//*! margin-top: 20px; *//*! padding-top: 5px; *//*! padding-left: 20px; *//*! margin-right: 20px; *//*! border-radius: 3px; *//*! text-align: center; *//*! padding-right: 20px; *//*! padding-bottom: 5px; *//*! background-color: #464A4C; *//*! color: #fff; *//*! margin-right: 530px; */margin-top: 22px;float: left;padding: 4px;padding-left: 25px;padding-right: 25px;background-color: #464A4C;color: #fff;}
+.linkedinmemberdirectory{/*! display: block; *//*! float: left; *//*! margin-top: 60px; *//*! padding-top: 25px; *//*! padding-left: 250px; *//*! float: left; *//*! margin-right: 40px; *//*! height: 47px; *//*! margin-top: 17px; *//*! margin: 65px; */}
+.abcd{/*! height: 47px; *//*! margin-top: 17px; *//*! display: block; *//*! float: left; *//*! padding-top: 60px; *//*! padding-top: 25px; *//*! padding-left: 250px; *//*! float: left; *//*! margin-right: 40px; *//*! height: 47px; *//*! margin-top: 17px; *//*! color: #fff; */}
+.lowerpart2{}
+.general{margin-top: 35px;float: left;width: 50%;}
+.generalhead{width: 100%;}
+.generalsection{font-size: 12px;margin-top: 20px;float: left;}
+.businesssolutionhead{margin-top: 35px;float: left;width: 100%;}
+.businesssolution{/*! float: left; */display: block;font-size: 12px;margin-top: 20px;float: left;/*! margin-top: 77px; *//*! padding-right: 131px; *//*! margin-right: 163px; */}
+.browselinkedinhead{margin-top: 35px;float: left;width: 100%;}
+.browselinkedin{font-size: 12px;margin-top: 20px;float: left;}
+.directorieshead{margin-top: 35px;float: left;width: 100%;}
+.directories{font-size: 12px;font-size: 12px;margin-top: 20px;float: left;}
+.dash{}
+.lowerpart3{background-color: #464A4C;color: #fff;}
+.lastline{text-align: center;}
+.one{padding-top: 10px;/*! text-align: 50% 50%; *//*! position: 50% 50%; *//*! text-align: center; */padding-bottom: 10px;padding-left: 7px;padding-right: 85px;/*! margin-left: -10px; */}
+.loginbtn{/*! margin: 7px; */padding: 10px 35px 8px 38px;text-align: center;/*! font-style: 999; *//*! font-size: small; */background-color: #283E4A;border-bottom-color: #fff;color: #fff;}
+.lowertext{}
+.a{width: 100%;/*! margin: 0 5px 15px 30px; *//*! padding: 20px 5px 5px 5px; *//*! height: 61px; */}
+.b{/*! float: left; */width: 100%;height: 30px;}
+.c{float: left;width: 100%;height: 30px;}
+.d{float: left;width: 100%;height: 30px;}
+.e{float: left;width: 100%;height: 30px;}
+.f{float: left;width: 100%;height: 30px;}
+.g{float: left;width: 100%;height: 30px;}*{
+
+	margin: 0;
+	padding: 0;
+	/*! text-decoration: none; */
+	/*! background-color: blue; */
+	/*! background-color: #464A4C !important; */
+}
+body{max-width: 100%;min-height: 100vh;}
+.headingpart{background-color: #283E4A;/*! height: 100px; */display: inline-block;width: 100%;text-decoration: none;/*! overflow: hidden; *//*! margin-bottom:   0px !important; *//*! padding-bottom: 24px; *//*! list-style: none; */}
+.headingleft{width: 20%;float: left;/*! margin-top: 34px; */margin-left: 160px;margin-top: 15px;margin-bottom: 15px;margin-right: 147px;}
+.headingleft a {}
+.headingright{width: 59%;float: left;text-decoration: none;display: block;/*! float: left; *//*! overflow: hidden; *//*! display: inline; *//*! height: 40px; *//*! padding-top: 6px; */margin-top: 11px;/*! margin-bottom: 15px; */list-style: none;}
+.headingright form {/*! float: left; */display: block;/*! float: right; */list-style: none;}
+.headingright form ul {float: left;width: 26%;margin-right: 5px;/*! margin: -10px; *//*! padding: -24px; */list-style: none;}
+.headingright form ul li {/*! float: left; *//*! padding-left: -1px; *//*! margin: -8px; */}
+.middlepart{ background-image: url(../images/linkedin-911794_1920.jpg); min-height: 116vh;background-repeat: no-repeat;max-width: 100%;background-size: cover;position: relative;/*! padding-top: 26px; *//*! margin: 22px; */}
+.box{background: #fff;/*! height: 350px; */width: 472px;/*! overflow: hidden; */position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);display: block;margin-top: 20px;margin-bottom: 20px;}
+.uppertext{text-align: center;font-size: 38px;height: 80px;}
+.dash{background-color: #0003;height: 1px;}
+.insert{background: #deeaf54d;/*! margin-left: 20px; *//*! margin-right: 20px; */padding-left: 20px;padding-right: 20px;}
+.lowerpart1{background-color: #464A4C;/*! color: #fff; */width: 100%;display: block;/*! padding-right: 59px; */background-color: #;height: 125px;}
+.findacolleague{/*! padding-top: 25px; *//*! padding-left: 250px; *//*! float: left; *//*! margin-right: 40px; *//*! padding-bottom: 19px; *//*! margin-bottom: 20px; */color: #fff;display: block;/*! width: 25%; */float: left;margin-top: 25px;margin-left: 320px;margin-right: 20px;}
+.lowerinputs{}
+.search{}
+.linkedinmemberdirectory{color: #fff;margin-left: 220px;margin-top: 20px;/*! width: 245px; */width: 100%;}
+.abcd{display: block;float: left;margin-top: 20px;}
+.lowerpart2{background-color: #464A4C;color: #fff;display: block;float: left;width: 100%;/*! margin-left: 127px; */padding-left: 127px;}
+.general{}
+.generalhead{}
+.generalsection{}
+.businesssolutionhead{}
+.businesssolution{}
+.browselinkedinhead{}
+.browselinkedin{}
+.directorieshead{}
+.directories{}
+.dash{/*! height: 0; */float: left;width: 100%;}
+.lowerpart3{/*! background-color: #464A4C; *//*! color: #fff; *//*! display: block; *//*! float: left; */width: 100%;display: block;float: left;}
+.lastline{/*! padding-bottom: 20px; */}
+.one{padding-top: 10px;/*! text-align: 50% 50%; *//*! position: 50% 50%; *//*! text-align: center; */padding-bottom: 10px;padding-left: 7px;padding-right: 85px;/*! margin-left: -10px; *//*! list-style: none; */}
+.loginbtn{/*! margin: 7px; */padding: 10px 35px 8px 38px;text-align: center;/*! font-style: 999; *//*! font-size: small; */background-color: #283E4A;border-bottom-color: #fff;color: #fff;}
+.lowertext{}
+.a{width: 100%;/*! margin: 0 5px 15px 30px; *//*! padding: 20px 5px 5px 5px; *//*! height: 61px; */}
+.b{/*! float: left; */width: 100%;height: 30px;}
+.c{float: left;width: 100%;height: 30px;}
+.d{float: left;width: 100%;height: 30px;}
+.e{float: left;width: 100%;height: 30px;}
+.f{float: left;width: 100%;height: 30px;}
+.g{float: left;width: 100%;height: 30px;}
+.i{float: left;width: 100%;height: 30px;}
+.lowertextofbox{height: 250px;font-size: 15px;/*! padding-top: -9px; *//*! margin: -6px; */}
+.joinnowbtn{width: 100%;/*! padding-bottom: 20px; */height: 30px;margin-bottom: 20px;}
+.businesssolution1{/*! margin-top: 35px; */float: left;width: 50%;}
+.browselinkedin1{margin-top: 35px;float: left;width: 50%;}
+.directories1{margin-top: 35px;float: left;width: 50%;}
+.ridwan{max-width: 100%;display: block;float: left;}
+.rifat{display: block;width: 35%;float: left;}
+.position{}
